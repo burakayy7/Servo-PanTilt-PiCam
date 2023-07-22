@@ -17,7 +17,7 @@ Next, put the 2nd servo in it's position on the mount, where the wires come out 
 ![](images/4.jpg)
 This is when you screw in the horn for the second servo. However, you have to get a new screw that is the same radius as the given one, but longer. 
 ![](images/screwHorn.jpg)
-Then, I screwed in on of the long screws that came with the 2nd servo on the back mount:
+Then, I screwed in one of the long screws that came with the 2nd servo on the back mount:
 I then programmed the servo to be at 180 degrees for me to screw in the other one. 
 ![](images/5.jpg)
 And finally, we screw in the Pi Camera. Now the screw holes are kind of delicate, so make sure to use thin screws and be gentle. 
