@@ -16,10 +16,10 @@ Then program the 2nd servo to be in 60 degrees and put it's small horn in facing
 Next, put the 2nd servo in it's position on the mount, where the wires come out the front. and also put the horn in it's slot on the tilt mount.
 ![](images/4.jpg)
 This is when you screw in the horn for the second servo. However, you have to get a new screw that is the same radius as the given one, but longer. 
-![](images/screwHorn.jpg)
+![](images/5.jpg)
 Then, I screwed in one of the long screws that came with the 2nd servo on the back mount:
 I then programmed the servo to be at 180 degrees for me to screw in the other one. 
-![](images/5.jpg)
+![](images/screwHorn.jpg)
 And finally, we screw in the Pi Camera. Now the screw holes are kind of delicate, so make sure to use thin screws and be gentle. 
 ![](images/final.jpg)
 AND DONE!! ENJOY!!!!
